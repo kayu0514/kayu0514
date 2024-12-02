@@ -15,7 +15,7 @@
 
 # My Skills
 
-![My Skills](https://skillicons.dev/icons?i=python,wasm%29)
+![My Skills](https://skillicons.dev/icons?i=python,javascript,wasm%29)
 
 # GitHub Trophy
 <a href="https://github.com/ryo-ma/github-profile-trophy">
