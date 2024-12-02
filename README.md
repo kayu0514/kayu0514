@@ -5,7 +5,7 @@
 </p>
 
 
-# status
+# Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayu0514&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayu0514&theme=aura_dark)
@@ -13,9 +13,14 @@
 ![yuu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayu0514&theme=2077)
 
 
-# my skills
+# My Skills
 
 ![My Skills](https://skillicons.dev/icons?i=python,wasm%29)
+
+# GitHub Trophy
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kayu0514" alt="GitHub Trophy">
+</a>
 
 
 <br><br><br>
