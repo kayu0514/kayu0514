@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi, I am Yuu :)</h1>
+<h1 align="center">Hi, I am Sese :)</h1>
 <p align="center">
-  <em>Developer of QRSpot</em>
+  <em>Japan / Developer</em>
 </p>
 
 
