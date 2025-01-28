@@ -1,18 +1,31 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
-<h1 align="center">Hi, I am Yuu :)</h1>
+<h1 align="center">Hello<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"></h1>
+<h3 align="center">I am sese :)</h3>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">GitHub Stats</h2>
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+  <p align="center"><a href="https://github.com/kayu0514"><img src="https://github-readme-stats.vercel.app/api?username=kayu0514&show_icons=true&theme=radical"></a></p>
+
+  <p align="center"><a href="https://github.com/kayu0514"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayu0514&theme=radical&layout=compact"></a></p>
+
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Github Trophy</h2>
+
 <p align="center">
-  <em>Developer of QRSpot</em>
+  <img src="https://github-profile-trophy.vercel.app/?username=kayu0514&theme=juicyfresh" /><a>
 </p>
 
+<br><br><br>
 
-# status
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kayu0514&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kayu0514&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kayu0514&theme=aura_dark&utcOffset=8)
-![yuu's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kayu0514&theme=2077)
-
-
-# my skills
-
-![My Skills](https://skillicons.dev/icons?i=python,wasm%29)
+<div align="center">
+    <h1>
+        <img src="https://user-images.githubusercontent.com/44926913/175852850-3fb6c715-1856-41ff-8c1f-94ce3b03b458.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+        <img src="https://user-images.githubusercontent.com/44926913/175853109-f8850656-6704-4a8a-bee6-9aca154d929b.gif">・
+        <img src="https://user-images.githubusercontent.com/44926913/175853154-5449d974-975e-44a6-ab84-a86031265e40.gif">・・・・
+    </h1>
+  </div>
+<br><br><br>
